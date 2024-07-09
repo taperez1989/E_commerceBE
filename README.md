@@ -1,14 +1,14 @@
 # E_commerceBE
 
-##Lessons learned: This challenge I had trouble getting the connection set up with the database and linking it to the inquirer questions I had set up in my server.js file. I was a bit confused with how I was going to do all that based off of what the user response. I knew I needed to use some sort of if else statment but I went with a switch case statment becuase it looked cleaner and would work the same. with some tutoring help I got everything to work.
+##Lessons learned: This assignment had me confused for a bit when it came to the route associations, I really struggled to understand how that works and how to correctly include which model assoctiated with which other model through a different model.Other than that it went fairly well. I had a great moment when I managed to debugged a few issues on my own as well as noticing a difference in how I was able to read the code now and understand for the most part what was being written.
 
 ##Description
 
-challenge was to create a employee tracker that links with a employee database. which you can view employees, the departments they are in and the roles of the employees. As well as updating the employees and the roles they are in.
+challeneg was to create a data base using sequelize and link all the tables together in order to use api routes to get, post, update, create and delete items from the tables.
 
-video link: https://drive.google.com/file/d/1NcWcObMlhD1J6kJnwowoW9Se7ebd7QKh/view
+video link: https://drive.google.com/file/d/1XC4mP9sXa4H0FLuzUSvaGoOqUtAytYcR/view
 
-repo link: https://github.com/taperez1989/SQL_e_track
+repo link: https://github.com/taperez1989/E_commerceBE
 
 ##MIT License
 
